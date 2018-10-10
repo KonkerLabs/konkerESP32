@@ -5,7 +5,7 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/KonkerLabs/KonkerESP/ESP32"
+    "url": "https://github.com/KonkerLabs/KonkerESP32.git"
   },
   "authors":
   [
@@ -43,6 +43,12 @@
     "name": "ESP32httpUpdate",
     "authors": "Matej Sychra",
     "url": "https://github.com/suculent/esp32-http-update.git",
+    "platforms": "espressif32"
+  },
+  {
+    "name": "KonkerESP",
+    "authors": "Érico Netto",
+    "url": "https://github.com/KonkerLabs/KonkerESP.git",
     "platforms": "espressif32"
   }
   ],
